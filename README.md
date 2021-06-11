@@ -1,4 +1,4 @@
-# FloodNet Dataset (Supervised Semantic Segmentation)
+# FloodNet Dataset 
 
 ## Overview
 
