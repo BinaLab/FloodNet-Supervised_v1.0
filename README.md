@@ -6,6 +6,8 @@ Frequent, and increasingly severe, natural disasters threaten human health, infr
 
 [FloodNet](https://arxiv.org/abs/2012.02951) provides high-resolution UAS imageries with detailed semantic annotation regarding the damages.
 
+![alt text](https://github.com/BinaLab/FloodNet-Supervised_v1.0/blob/main/FloodNet-Sample.jpg?raw=true)
+
 ## Dataset Details
 
 The data is collected with a small UAS platform, DJI Mavic Pro quadcopters, after Hurricane Harvey. The whole dataset has 2343 images, divided into training (~60%), validation (~20%), and test (~20%) sets. The semantic segmentation labels include: 1) Background, 2) Building Flooded, 3) Building Non-Flooded, 4) Road Flooded, 5) Road Non-Flooded, 6) Water, 7)Tree, 8) Vehicle, 9) Pool, 10) Grass. 
