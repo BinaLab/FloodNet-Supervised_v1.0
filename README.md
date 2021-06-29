@@ -14,6 +14,10 @@ The data is collected with a small UAS platform, DJI Mavic Pro quadcopters, afte
 
 The dataset can be downloaded from this link: https://drive.google.com/drive/folders/1leN9eWVQcvWDVYwNb2GCo5ML_wBEycWD?usp=sharing
 
+## License
+
+This dataset is released under the [Community Data License Agreement (permissive)](https://cdla.io/permissive-1-0/).
+
 ### Paper Link
 The paper can be downloaded from this [link](https://arxiv.org/abs/2012.02951).
 Please cite our paper when using the dataset
@@ -25,4 +29,12 @@ Please cite our paper when using the dataset
   journal={arXiv preprint arXiv:2012.02951},
   year={2020}
 }
+
 ```
+
+The paper also appears in IEEE Access
+On page(s): 1-11
+Print ISSN: 2169-3536
+Online ISSN: 2169-3536
+Digital Object Identifier: 10.1109/ACCESS.2021.3090981
+
