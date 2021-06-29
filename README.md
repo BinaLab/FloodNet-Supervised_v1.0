@@ -19,7 +19,7 @@ The dataset can be downloaded from this link: https://drive.google.com/drive/fol
 This dataset is released under the [Community Data License Agreement (permissive)](https://cdla.io/permissive-1-0/).
 
 ### Paper Link
-The paper can be downloaded from this [link](https://arxiv.org/abs/2012.02951).
+The paper can be downloaded from this [link](https://ieeexplore.ieee.org/document/9460988).
 Please cite our paper when using the dataset
 
  ```
